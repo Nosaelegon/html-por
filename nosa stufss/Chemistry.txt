@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Website</title>
+</head>
+
+
+<body>
+<h1>Important Notes On JAMB Chemistry (1)</h1>
+<hr />
+<h3>
+<ul>
+
+<li>A homogeonous substance is a subtance of equal or specified porpotion// heterogenous subtances are not of equal porpotion 
+<p><li>a compound is always homogeonous while a mixture can be homogeonous or heterogenous</li></p>
+<li>substances like urine,seawater,,soil, are heterogenous<br />subtances like filtered seawatwer ,sugar,salt etc are homogenous </li>
+<p>A mixture does not have a chemical formula while a compound has this is the easiest way to differnciate them from each other</p><p>
+<li>Seperation techniques
+<p>Sieving - Particles of different sizes [used in gold and diamond industries amd garri industries]</p>
+<p>Distillation - Difference in Boiling points [used to recover solvent from solution]</li></p>Sublimation-Solid state without passing through gaseous state[anytime you hear Iodine,Ammonium chloride,Camphor just know that it has to do with sublimation]
+<p>Decantation-Phase difference between the settled solid particles and supernatant liquid on top</p>
+<p>Filtration - insoluble particles passing through a medium (filter paper) [industries such as water purification plants and Breweries use filteration to remove soild particles from liquid]</p>
+<p>Centrifugation - Using a centrifuge machine to spin test tube at high speeds in order to make solid particles settle at the bottom of the test tube</p>
+<p>Floation - [anything that has to do with metal ore seperation just know the answer is floation]</p>
+<p>Evaporation - Used to recover solid solute from a solution [obtaining salt fron sea water] read the difference between evaporation and Boiling</p>
+<p>Crystallization - Used to seperate salts which easily decompose on heating from their solutions[the most important thing to note is that CRYSTALLIZATION is used in industries where purity of the product is concerned as in tne manufacture of SUGAR and DRUG production</p>
+<p>Seperating Funnel method - Seperation of two immisible liquids using a seperatory funnel in which the liquids form two distinct layers [seperation of petrol and water]</p>
+<p>Chromatography - Migration of constituents of mixture over an absorbent medium to seperate a mixtre of solutes[just note anything thing that has to do with SPEED ,MIGRATION,INK,CHLOROPHYLL just know that the answer is Chromatography</p>
+<p>Magnetic Separation - A magnet is used to seperate magnetic substances from non magnetic particles</p>
+</ul>
+NOW SOME JAMB RELATED QUESTIONS :
+<p><ol>
+<li>A separatory funnel can be used to separate a mixture of water </li>
+(a)methanol (b) methylated Spirit (c) methanoic acid (d)petroleum spirit</li>
+<li>Petroleum is refined into useful products by
+(a)catalytic reforming (b)column Chromatography (c) Fractional Distillation (d) Thermal decomposition
+<li>The following mixtures are homogenous except
+(a)filtered seawater (b) air (c) Flood water (d) Writing ink</li>
+<li>The seperation of a band of ink into its various components is by
+(a) Fractional Crystallization  (b) Fractional Distillation (c) Chromatography (d) sublimation </li>
+<li>Which of the following seperation techniques can be employed in obtaning solvent from its solution 
+(a) Evaporation (b) Distillation (c) Filtration (d) Precipitation</li>
+<li>A mixture of sand ,ammonium chloride and sodium chloride is best separated by
+(a)sublimation followed by addition of water and Filtration (b)sublimation followed by addition of water and evaporation (c)addition of water followed by filtration and sublimation (d) addition of water followed by crystallization and sublimation
+</li>
+</ol></p>
+</h3>
+body>
+</html>
